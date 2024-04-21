@@ -6,84 +6,84 @@ topBanner:
   color: ''
 headerSection:
   dark:
-    title: 'Scalable for devs.
-Secure for users.
-Decentralized for all.'
-    subtitle: 'Innovative sharding meets expressive sUTXO and efficient Proof-of-Less-Work to secure scalable dApps for real-world use cases.'
+    title: 'Mở rộng cho lập trình viên.
+Bảo mật cho người dùng.
+Phi tập trung cho mọi người.'
+    subtitle: 'Sharding cải tiến kết hợp với sUTXO và thuật toán tiết kiệm năng lượng Proof-of-Less-Work cho khả năng mở rộng các dApp an toàn và hiệu suất cao.'
   light:
     title: Accessibility & Usability
     subtitle: 'From its technical design to its interfaces, Alephium has been created to address the challenges of accessibility, scalability, and security encountered by decentralized applications today.'
 introSection:
-  title: Start
-  subtitle: Begin your Alephium journey
+  title: Bắt đầu
+  subtitle: Chuyến hành trình khám phá Alephium
   cards:
-    - title: Start Building
+    - title: Xây dựng
       image: ../images/code.svg
-      description: 'Start building your own smart contracts, decentralized apps, and protocols.'
+      description: 'Bắt đầu xây dựng smart contract, ứng dụng phi tập trung và các giao thức của chính bạn.'
       link:
         url: https://docs.alephium.org/dapps/getting-started/
         newTab: true
-    - title: Start Contributing
+    - title: Đóng góp
       image: ../images/coins.svg
-      description: 'Apply for a grant to develop your own project on Alephium. Receive rewards for contributing to any initiatives bringing value to the project.'
+      description: 'Đăng ký vào chương trình đóng góp và nhận phần thưởng để phát triển dự án của bạn trên Alephium. Các sáng kiến mang lại giá trị sẽ được nhận các phần thưởng tương ứng.'
       link:
         url: https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md
         newTab: true
-    - title: Start Mining
+    - title: Khai thác
       image: ../images/mining.svg
-      description: 'Start mining to contribute to the network security and receive ALPH rewards.'
+      description: 'Bắt đầu khai thác để góp phần gia tăng bảo mật cho toàn mạng hệ thống và nhận phần thưởng ALPH.'
       link:
         url: https://docs.alephium.org/mining/solo-mining-guide/
         newTab: true
 technologySection:
-  title: Technology
-  subtitle: What makes Alephium different?
+  title: Công nghệ
+  subtitle: Điều gì làm cho Alephium khác biệt?
   blockFlowSection:
-    title: 'Scalable & Sharded'
-    description: "Alephium is built on a novel sharding algorithm called BlockFlow. It leverages a stateful UTXO model and DAG data structure to deliver efficient and practical sharding. This enables Alephium to natively support over 10,000 transactions per second while preserving a seamless 'single-chain' user experience."
+    title: 'Khả năng mở rộng & Phân chia'
+    description: "Alephium được xây dựng trên thuật toán phân chia (sharding) gọi là BlockFlow. Thuật toán này tận dụng mô hình stateful UTXO và cấu trúc dữ liệu DAG để phân chia một cách hiệu quả và thực tiễn. Điều này giúp cho Alephium có khả năng hỗ trợ hơn 10,000 giao dịch trong một giây trong khi vẫn giữ được tính liền mạch của trải nghiệm người dùng trên chính mạng lưới của mình."
     links:
-      - text: More details
+      - text: Đọc thêm
       - text: White paper
         url: https://github.com/alephium/white-paper/blob/master/alephium.pdf
         newTab: true
   smartContractSection:
-    title: Programmable & Secure
-    description: "Alephium's stateful UTXO model combines the advantages of the UTXO and account models. It supports mutable states, like those found in Ethereum, for smart contracts while leveraging the security benefits of the UTXO model for assets."
+    title: Khả năng lập trình & Bảo mật
+    description: "Stateful UTXO trên Alephium là sự kết hợp những lợi ích của mô hình UTXO và mô hình account. Nó hỗ trợ các mutable state cho các smart contract như trên Ethereum, đồng thời tận dụng những lợi ích bảo mật của mô hình UTXO cho các tài sản được xây dựng."
     links:
-      - text: More details
-      - text: Guide
+      - text: Đọc thêm
+      - text: Hướng dẫn
         url: https://docs.alephium.org/dapps/getting-started/
         newTab: true
   polwSection:
-    title: Efficiency in Energy Consumption
-    description: "Alephium's Proof Of less Work is a simple, consistent and robust consensus mechanism for achieving decentralization while reducing the energy consumption by over 87% compared to classic Proof of Work. On Alephium, anyone can run a full node and verify on-chain data,'Don't trust, verify'."
+    title: Tối ưu trong tiêu thụ năng lượng
+    description: "Thuật toán Proof of Less Work của Alephium rất đơn giản, nhất quán và mạnh mẽ để đạt được sự phi tập trung, đồng thời giảm mức tiêu thụ năng lượng hơn 87% so với Proof of Work cổ điển. Trên Alephium, bất kỳ ai cũng có thể chạy full node và tham gia vào việc xác nhận dữ liệu on-chain. 'Đừng tin, hãy xác nhận'."
     links:
-      - text: More details
+      - text: Đọc thêm
       - text: PoLW white paper
         url: https://github.com/alephium/white-paper/blob/master/polw.pdf
         newTab: true
   vmsSection:
-    title: Its own Virtual Machine & Programming Language.
-    description: "Alephium enhances developer experience and security with its Virtual Machine, SDK, and performance-optimized programming language. Its MEV-aware design and built-in security measures eliminate common attack vectors, such as reentrancy attacks, unlimited authorization and flash loans. Alephium allows devs to focus on what matters and pioneers entirely new possibilities for smart contracts, dApps and tokens."
+    title: Có Virtual machine & Ngôn ngữ lập trình riêng biệt.
+    description: "Alephium cải thiện trải nghiệm lập trình và bảo mật cho lập trình viên với chính Virtual Machine, SDK và tối ưu hiệu suất của ngôn ngữ lập trình. MEV được thiết kế và tích hợp sẳn những tính năng bảo mật, giúp loại bỏ các tác nhân tấn công phổ biến, chẳn hạn như reentrancy attack, unlimited authorization và flash loans. Alephium cho phép lập trình viên tập trung vào những vấn đề cần được giải quyết và ưu tiên phát triển các smart contract, dApp và token."
     links:
-      - text: More details
+      - text: Đọc thêm
 numbersSection:
-  title: Some numbers
-  subtitle: "We're passionate in our work and committed to outstanding quality and measurable results. Here are some of our numbers."
+  title: Những con số
+  subtitle: "Chúng tôi bao gồm những con người nhiệt huyết và có trách nhiệm trong công việc để cho ra những kết quả tốt nhất. Dưới đây là những con số ấn tượng của chúng tôi."
 walletsSection:
-  title: The wallets
-  subtitle: Designed for humans
-  description: 'The wallets are designed for ease-of-use, to make Alephium’s technology accessible for all.'
+  title: Ví cá nhân
+  subtitle: Được thiết thân thiện cho mọi người
+  description: 'Các phiên bản ví cá nhân được thiết kế thuận tiện cho việc sử dụng hằng ngày và phù hợp cho tất cả mọi người.'
   wallets:
     - title: Desktop wallet 🖥️
-      description: 'Alephium’s flagship wallet. Ready for everything, from daily management tasks to smart contracts deployment, privacy & DeFi.'
+      description: 'Được xem là phiên bản flagship. Desktop wallet luôn sẳn sàn cho mọi tình huống từ quản lý các giao dịch hằng ngày đến những công việc tích hợp smart contract, bảo mật & DeFi.'
       screenshot: ../images/screenshots/desktop-wallet.png
       color: 'rgb(91, 0, 255)'
       actions:
-        - title: Get the desktop wallet
+        - title: Tải về desktop wallet
           link: https://github.com/alephium/alephium-frontend/releases/latest/
     - title: Extension wallet 🌍
-      description: 'The wallet in your browser. Get access to the latest features with a focus on DeFi.'
+      description: 'Phiên bản ví cá nhân có thể chạy trên trình duyệt của bạn. Dễ dàng truy cập vào những tính năng mới nhất, tối ưu hóa và tập trung cho DeFi.'
       screenshot: ../images/screenshots/extension.png
       color: 'rgb(24, 215, 255)'
       actions:
@@ -92,7 +92,7 @@ walletsSection:
         - title: Firefox
           link: https://addons.mozilla.org/en-US/firefox/addon/alephiumextensionwallet/
     - title: Mobile wallet 📱
-      description: 'Alephium on the go. First-class UX. Available on Android and iOS.'
+      description: 'Mang Alephium theo chuyến đi của bạn. Tập trung hằng đầu vào trải nghiệm người dùng. Sẵn sàng trên Android và iOS.'
       screenshot: ../images/screenshots/mobile.png
       color: 'rgb(228, 124, 12)'
       actions:
@@ -102,11 +102,11 @@ walletsSection:
           link: https://apps.apple.com/us/app/alephium-wallet/id6469043072
           
 ecosystemSection:
-  title: Ecosystem
-  subtitle: Growing fast
+  title: Hệ sinh thái
+  subtitle: Không ngừng lớn mạnh
   subsections:
-    - title: dApps & projects
-      description: 'Building on top, around, or below what we do, securing the network or providing services, they are the life & blood of Alephium & the reasons we grind every day!'
+    - title: dApp & Dự án
+      description: 'Ở mọi khía cạnh, bảo mật hệ thống và cung cấp các dịch vụ hằng đầu là những tiêu chí tiên quyết để chung tôi không ngừng nổ lực mỗi ngày!'
       image: ../images/sprout.svg
       items:
         - title: 'Alphland'
@@ -126,10 +126,10 @@ ecosystemSection:
           url: https://www.metapool.tech/dashboard
         - title: 'Sahhar Wallet'
           url: https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet&pli=1
-        - title: '& More'
+        - title: '& nhiều hơn'
           url: https://github.com/alephium/awesome-alephium
-    - title: Partners
-      description: 'From lawyers to peer blockchains, lobbying & local associations, they make us feel part of a larger ecosystem.'
+    - title: Đối tác
+      description: 'Từ các luật sư đến các blockchain ngang hàng, các nhà vận động và các tổ chức địa phương. Tất cả mọi người khiến cho chúng tôi cảm thấy là một hệ sinh thái lớn vững mạnh.'
       image: ../images/network.svg
       items:
         - title: 'Bitcoin Association Switzerland'
@@ -157,256 +157,255 @@ ecosystemSection:
           logo: '../images/svgs/utxo-aliance-logo-white.svg'
           url: https://utxo-alliance.org/
 milestonesSection:
-  title: Completed milestones
-  subtitle: Building every day
+  title: Các cột mốc đã hoàn thành
+  subtitle: Không ngừng xây dựng
   timelines:
-    - title: Core platform
+    - title: Nền tảng cốt lõi
       years:
         - year: 2019
           entries:
             - row: 1
-              text: 'Whitepapers publicly released'
+              text: 'Phát chính thức Whitepaper'
               when: '02.2019'
               isMajor: true
         - year: 2020
           entries:
             - row: 1
-              text: 'Alpha version of the core sharding protocol implemented and tested on AWS'
+              text: 'Phiên bản đầu tiên của giao thức cốt lõi sharding được tích hợp và thử nghiệm trên AWS'
               when: 'Q1.2020'
             - row: 2
-              text: 'Testnet launch'
+              text: 'Khởi chạy Testnet'
               when: '12.2020'
               isMajor: true
         - year: 2021
           entries:
             - row: 1
-              text: 'Smart contract support'
+              text: 'Hỗ trợ smart contract'
               when: 'Q1.2021'
             - row: 3
-              text: 'Desktop wallet & explorer public release'
+              text: 'Phát hành chính thức Desktop wallet & explorer'
               when: '09.2021'
               isMajor: true
             - row: 4
-              text: 'Mainnet launch'
+              text: 'Khởi chạy Mainnet'
               when: '08.11.2021'
               isMajor: true
         - year: 2022
           entries:
             - row: 1
-              text: '1st dApp prototype'
+              text: 'dApp prototype đầu tiên'
               when: '01.2022'
               isMajor: true
             - row: 2
-              text: 'Beta version of contract SDK'
+              text: 'Phiên bản beta của contract SDK'
               when: '06.2022'
             - row: 3
-              text: 'Leman Network Upgrade deployed on the testnet'
+              text: 'Triển khai nâng cấp Leman Network trên testnet'
               when: '06.2022'
               isMajor: true
             - row: 6
-              text: 'Alpha version of multi-guardians bridge on the Testnet'
+              text: 'Phiên bản đầu tiên của multi-guardians bridge trên Testnet'
               when: '11.2022'
               isMajor: true
         - year: 2023
           entries:
             - row: 1
-              text: 'More dApp prototypes (DEX & NFT marketplace)'
+              text: 'Nhiều dApp prototype khác (DEX & sàn NFT)'
               when: 'H1.2023'
             - row: 2
-              text: 'Launch Browser Wallet Extension'
+              text: 'Phát hành chính thức Browser Extension Wallet'
               when: '03.2023'
               isMajor: true
             - row: 3
-              text: 'Leman Network Upgrade on Mainnet'
+              text: 'Triển khai chính thức cập nhật Leman Network trên Mainnet'
               when: '27.03.2023'
               isMajor: true
             - row: 4
-              text: 'Schnorr signatures and cross-chain interoperability'
+              text: 'Chữ ký Schnorr & khả năng tương tác đa chuổi'
               when: '03.2023'
             - row: 5
-              text: 'New Asset Permission System and set of Virtual Machine (VM) instructions and building functions'
+              text: 'Hệ thống Asset Permission mới & chuổi hướng dẫn Virtual Machine (VM) và các chức năng xây dựng'
               when: '03.2023'
               isMajor: true
             - row: 6
-              text: 'Improved node APIs and SDK'
+              text: 'Cải tiến node APIs và SDK'
               when: '03.2023'
             - row: 7
-              text: 'Improved difficulty adjustment algorithm (DAA)'
+              text: 'Cải thiện khả năng điều chỉnh độ khó của thuật toán (DAA)'
               when: '03.2023'
             - row: 8
               text: 'Desktop Wallet v2.0'
               when: '05.2023'
               isMajor: true
             - row: 9
-              text: 'Alephium Bridge on Testnet'
+              text: 'Alephium Bridge trên Testnet'
               when: '05.2023'
             - row: 13
               text: 'Alephium Multisig GUI'
               when: '09.2023'
             - row: 15
-              text: 'Launch Mobile Wallet (Android & iOS)'
+              text: 'Phát hành chính thức Mobile Wallet (Android & iOS)'
               when: '11.2023'
               isMajor: true
             - row: 16
-              text: 'Alephium Bridge to Ethereum on Mainnet'
+              text: 'Cầu nối (bridge) giữa Alephium và Ethereum trên Mainnet'
               when: '09.11.2023'
               isMajor: true
-    - title: Ecosystem
+    - title: Hệ sinh thái
       years:
         - year: 2019
         - year: 2020
         - year: 2021
           entries:
             - row: 2
-              text: '3rd party cloud mining service at Mainnet Launch'
+              text: 'Khởi chạy dịch vụ cloud mining bên thứ 3 trên Mainnet'
               when: '08.11.2021'
             - row: 4
-              text: 'Joined the UTXO alliance & Bitcoin Association Switzerland'
+              text: 'Gia nhập Hiệp hội UTXO & Bitcoin Thụy Sỹ'
               when: '11.2021'
             - row: 5
-              text: 'Mining ecosystem development: community pools, miners development, reference mining pool, and pool integration.'
+              text: 'Phát triển hệ sinh thái khai thác: pool cộng đồng, phát triển dành cho các thợ đào, tài liệu minning pool, và các tích hợp của pool đào.'
               when: 'Q4.2021'
               isMajor: true
         - year: 2022
           entries:
             - row: 1
-              text: 'First exchange listing: Gate.io'
+              text: 'Niêm yết đầu tiên trên sàn giao dịch: Gate.io'
               when: '12.01.2022'
               isMajor: true
             - row: 4
-              text: 'Initiation of marketing initiatives (sponsoring of ErgoHack, AMAs, community competitions, campaigns, Tech Talk Series and more)'
+              text: 'Khởi xướng các chiến dịch quảng bá (tài trợ từ ErgoHack, AMA, cuộc thi & các chiến dịch từ cộng đồng, Tech Talk Series và nhiều hơn nữa)'
               when: 'Q3.2022'
             - row: 5
-              text: 'Dappnode Integration'
+              text: 'Tích hợp Dappnode'
               when: '10.2022'
             - row: 6
-              text: 'Flux Integration'
+              text: 'Tích hợp Flux'
               when: '11.2022'
             - row: 7
-              text: 'Reached over 265 community contributions'
+              text: 'Đạt được hơn 265 lượt đóng góp từ cộng đồng'
               when: '12.2022'
         - year: 2023
           entries:
             - row: 1
-              text: 'Additional CEXs listings'
+              text: 'Niêm yết trên các sàn CEX khác'
               when: 'H1.2023'
             - row: 10
-              text: 'NYM-Connect app integration'
+              text: 'Tích hợp ứng dụng NYM-Connect'
               when: '07.2023'
             - row: 11
-              text: 'First native DEX - Ayin'
+              text: 'Sàn DEX đầu tiên - Ayin'
               when: '08.2023'
               isMajor: true
             - row: 12
-              text: 'First native NFT Marketplace - Deadrare'
+              text: 'Sàn giao dịch NFT đầu tiên - Deadrare'
               when: '09.2023'
               isMajor: true
             - row: 13
-              text: 'First decentralized lottery - Walph'
+              text: 'Nền tảng xổ số phi tập trung đầu tiên - Walph'
               when: '09.2023'
               isMajor: true
             - row: 14
-              text: 'First DAO - Blockflow Alliance DAO'
+              text: 'DAO đầu tiên - Blockflow Alliance DAO'
               when: '10.2023'
               isMajor: true
             - row: 15
-              text: 'Stablecoins on Alephium & Wrapped ALPH on Ethereum'
+              text: 'Stablecoin trên Alephium & Wrapped ALPH trên Ethereum'
               when: '11.2023'
               isMajor: true
             - row: 16
-              text: 'Over 77’000 active addresses and 50’000+ GPUs on Alephium'
+              text: 'Hơn 77,000 địa chỉ ví hoạt động và hơn 50,000 GPU trên Alephium'
               when: '11.2023'
             - row: 17
-              text: '$5.15M TVL on Alephium'
+              text: '$5.15M TVL trên Alephium'
               when: '12.2023'      
 todoListSection:
-  title: What's next
-  subtitle: Building an exciting future
+  title: Kế tiếp là gì
+  subtitle: Xây dựng một tương lai đầy phấn khởi
   lists:
-    - title: Core platform
+    - title: Nền tảng cốt lõi
       items:
         - text: 'Block time reduction - Network Upgrade'
           label: Full Node
-        - text: 'Better sequential transaction support - Network Upgrade'
+        - text: 'Cải thiện hỗ trợ giao dịch tuần tự - Network Upgrade'
           label: Full Node
-        - text: 'Gasless transaction support - Network Upgrade'
+        - text: 'Hỗ trợ Gasless transaction - Network Upgrade'
           label: Full Node
-        - text: 'New signature schemas for Passkey support'
+        - text: 'New signature schemas cho hỗ trợ Passkey'
           label: Full Node
-        - text: 'Support streaming for blockchain events (tx, block, contract events) - API'
+        - text: 'Hỗ trợ streaming cho các blockchain event (tx, block, contract events) - API'
           label: Full Node / SDK
-        - text: 'P2P transaction endpoints and SDKs'
+        - text: 'Giao dịch P2P và SDK'
           label: Full Node / SDK
-        - text: 'Typescript SDK for off-chain transaction encoding/decoding'
+        - text: 'Typescript SDK cho giao dịch off-chain encoding/decoding'
           label: SDK
-        - text: 'Improved web3 SDK with better DevX and more functionality'
+        - text: 'Cải tiến web3 SDK với DevX tốt hơn và nhiều chức năng khác'
           label: SDK
-        - text: 'Introduce AIP for Alephium Improvement Proposals'
+        - text: 'Giới thiệu AIP cho Alephium Improvement Proposal'
           label: Community
-        - text: 'Group abstraction (UX simplification)'
+        - text: 'Group abstraction (Đơn giản hóa UX)'
           label: Wallets
-        - text: 'Enhanced multi-sig experience'
+        - text: 'Cải tiến trải nghiệm multi-sig'
           label: Wallets
-        - text: 'Standard for transaction information display on wallet'
+        - text: 'Tiêu chuẩn cho hiển thị các thông tin giao dịch trên ví'
           label: Wallets
-        - text: 'Improved full node’s database system for better performance'
+        - text: 'Cải thiện hệ thống cơ sở dữ liệu của full node nhằm gia tăng hiệu suất'
           label: Full Node
-        - text: 'Better error system for full node and its endpoints'
+        - text: 'Cải thiện error system cho full node và các endpoint của nó'
           label: Full Node
-        - text: 'Design and implement fast sync for full node'
+        - text: 'Thiết kế và tích hợp fast sync cho full node'
           label: Full Node
-        - text: 'Design and implement light node'
+        - text: 'Thiết kế và tích hợp light node'
           label: Full Node
-        - text: 'Smart contracts support in the Explorer + Token pages'
+        - text: 'Smart contract hỗ trợ trong Explorer + trang Token'
           label: Explorer
-        - text: 'Enhanced UX and additional features for the Browser Wallet Extension'
+        - text: 'Cải thiện UX và các tính năng cho Browser Wallet Extension'
           label: Wallets
-        - text: 'Additional dApps prototypes (Lending protocol, Name service and more)'
+        - text: 'Đề xuất thêm nhiều dApps prototype (Lending protocol, Name service và hơn thế nữa)'
           label: dApps
-        - text: 'Better development experience and additional functionalities for the Ralph language'
+        - text: 'Cải thiện trải nghiệm phát triển và các chức năng mở rộng cho ngôn ngữ lập trình Ralph'
           label: Full Node / SDK
-        - text: 'Continuous improvement of the documentation'
+        - text: 'Không ngừng cập nhật các nguồn tài liệu'
           label: Documentation
-        - text: 'Continuously improve user experience of the desktop and mobile wallets'
+        - text: 'Không ngừng cải thiện trải nghiệm người dùng trên phiên bản desktop và mobile wallet'
           label: Wallets
-    - title: Ecosystem
+    - title: Hệ sinh thái
       items:
-        - text: 'Additional hardware wallets support'
+        - text: 'Hỗ trợ thêm hardware wallet'
           label: Wallets
-        - text: 'More dApps'
+        - text: 'Xuất hiện hơn nhiềudApps'
           label: Ecosystem
-        - text: 'First Alephium Hackathon'
+        - text: 'Hackathon đầu tiên của Alephium'
           label: Community
-        - text: 'Launch of the Ambassador program'
+        - text: 'Triển khai chương trình Ambassador'
           label: Community
-        - text: 'Additional CEX & DEX listings'
+        - text: 'Niêm yết trên nhiều sàn CEX & DEX'
           label: Exchanges
-        - text: 'Bridge to additional blockchain ecosystems'
+        - text: 'Bridge đến nhiều hệ sinh thái blockchain khác'
           label: Bridge
-        - text: 'Integration with 3rd party wallets, payment & web3 services'
+        - text: 'Tích hợp với các ví bên thứ 3, thanh toán &  dịch vụ web3'
           label: Ecosystem
-        - text: "Improved developers' onboarding experience"
+        - text: "Cải thiện trải nghiệm làm quen dành cho lập trình viên"
           label: Community
-        - text: Additional marketing, partnership, and knowledge-sharing initiatives with like-minded communities and projects.
+        - text: 'Thêm nhiều chiến dịch marketing, đối tác chiến lược và chia sẻ các kiến thức nền tảng cho cộng đồng và các dự án.'
           label: Marketing
-        - text: Website revamp
+        - text: 'Cải thiện Website'
           label: Marketing
           
 shopSection:
   title: SWALPH
   subtitle: Decentralized SWAG 🤘
   description:
-    If you want to wear Alephium's colors, head out to the shop and access a selection of clothes and goodies.
-    You'll find the nicest designs for you to add a bit of sharding and PoLW vibes to your daily routine.
+    Nếu bạn muốn khoát lên mình màu sắc của Alephium, hãy dạo qua cửa hàng của chúng tôi và chọn những vật phẩm mà bạn thích.
+    Bạn sẽ tìm thấy những thiết kế đẹp nhất để thêm một chút vibe sharding và PoLW theo bạn hằng ngày.
   link:
-    text: 'Visit the shop'
+    text: 'Truy cập đến shop'
     url: https://alephium.myspreadshop.ch
 
 followUsSection:
-  title: Community
-  subtitle: Come and join the fun
-  description: Alephium's community is growing fast. Fascinated by the
-    technology? Come learn and build!
+  title: Cộng đồng
+  subtitle: Hãy đến thăm chúng tôi
+  description: Cộng đồng Alephium phát triển thần tốc. Bạn là người đam mê công nghệ? Hãy đến để học hỏi và xây dựng!
   socialMediaLinks:
     - name: Discord
       url: https://discord.gg/XC5JaaDT7z
