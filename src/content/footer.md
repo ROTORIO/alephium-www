@@ -1,8 +1,8 @@
 ---
 columns:
-  - title: Resources
+  - title: Các liên kết
     links:
-      - text: Docs
+      - text: Tài liệu
         url: https://docs.alephium.org/
         newTab: true
       - text: Blog
@@ -14,7 +14,7 @@ columns:
       - text: FAQ
         url: https://docs.alephium.org/frequently-asked-questions
         newTab: true
-  - title: Explore
+  - title: Khám phá
     links:
       - text: Codebase
         url: http://github.com/alephium
@@ -27,21 +27,21 @@ columns:
         newTab: true
       - text: Wallet
         url: '#wallets'
-      - text: Reward & grant program
+      - text: Đóng góp & phần thưởng
         url: https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md
         newTab: true
-  - title: About
+  - title: Về chúng tôi
     links:
-      - text: Team
+      - text: Đội ngũ
         url:
         newTab: false
-      - text: Careers
+      - text: Việc làm
         url: https://alephium.bamboohr.com/jobs/
         newTab: true
-      - text: Contact
+      - text: Liên hệ
         url:
         newTab: false
-      - text: Privacy policy
+      - text: Chính sách quyền riêng tư
         url:
         newTab: false
 ---
