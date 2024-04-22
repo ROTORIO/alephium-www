@@ -72,7 +72,7 @@ numbersSection:
   subtitle: "Chúng tôi bao gồm những con người nhiệt huyết và có trách nhiệm trong công việc để cho ra những kết quả tốt nhất. Dưới đây là những con số ấn tượng của chúng tôi."
 walletsSection:
   title: Ví cá nhân
-  subtitle: Được thiết thân thiện cho mọi người
+  subtitle: Được thiết kế thân thiện cho mọi người
   description: 'Các phiên bản ví cá nhân được thiết kế thuận tiện cho việc sử dụng hằng ngày và phù hợp cho tất cả mọi người.'
   wallets:
     - title: Desktop wallet 🖥️
@@ -103,7 +103,7 @@ walletsSection:
           
 ecosystemSection:
   title: Hệ sinh thái
-  subtitle: Không ngừng lớn mạnh
+  subtitle: Không ngừng phát triển
   subsections:
     - title: dApp & Dự án
       description: 'Ở mọi khía cạnh, bảo mật hệ thống và cung cấp các dịch vụ hằng đầu là những tiêu chí tiên quyết để chung tôi không ngừng nổ lực mỗi ngày!'
