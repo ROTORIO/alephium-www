@@ -1,14 +1,14 @@
 ---
-title: Contact Alephium
+title: Liên hệ Alephium
 ---
 
-General information: info@alephium.org
+Thông tin chung: info@alephium.org
 
-Business and partnership: business@alephium.org
+Công việc và đối tác: business@alephium.org
 
-Press request: press@alephium.org
+Yêu cầu xuất bản: press@alephium.org
 
 **Alephium**<br />
 Ruelle William Mayor 2<br />
 CH-2000 Neuchâtel
-Switzerland
+Thụy Sỹ
