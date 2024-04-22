@@ -1,11 +1,11 @@
 ---
-title: Novel VM design
+title: Thiết kế VM thế hệ mới
 ---
 
-Alephium’s novel virtual machine is designed to resolve many of the critical issues of the current dApps platforms.
+Máy ảo mới (VM) được Alephium thiết kế để giải quyết nhiều vấn đề nghiêm trọng của các nền tảng dApp hiện tại.
 
-Alephium’s VM is less IO intensive ensuring unmatched performance.
+VM của Alephium ít sử dụng IO hơn để đảm bảo hiệu suất chưa từng có ở blockchain nào.
 
-Flash loan is not available by design and the VM eliminates many attack vectors of EVM, including unlimited authorization, double dip issue, reentrancy attack, etc.
+Theo thiết kế, flash loan sẽ không khả dụng và VM loại bỏ nhiều tác nhân tấn công của EVM, bao gồm ủy quyền không giới hạn, vần đề nhúng kép, tấn công reentrancy, v.v. 
 
-Finally, its fine-grained stateful UTXO execution model reduces risk-free arbitrage.
+Cuôi cùng, mô hình thực thi stateful UTXO giúp giảm thiểu tình trạng chênh lệch giá không rủi ro.
