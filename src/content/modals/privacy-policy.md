@@ -1,8 +1,8 @@
 ---
-title: Privacy Policy
+title: Chính sách quyền riêng tư
 ---
 
-At Alephium, accessible from https://alephium.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Alephium and how we use it.
+Tại  trang Alephium có địa chỉ https://alephium.org, một trong những ưu tiên hằng đầu của chúng tôi là quyền riêng tư của khách hàng truy cập. Tài liệu về Chính sách quyền riêng tư chứa các loại thông tin được Alephium thu thập và ghi lại cũng như cách chúng tôi sử dụng các thông tin đó.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
