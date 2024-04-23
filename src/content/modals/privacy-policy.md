@@ -2,79 +2,79 @@
 title: Chính sách quyền riêng tư
 ---
 
-Tại  trang Alephium có địa chỉ https://alephium.org, một trong những ưu tiên hằng đầu của chúng tôi là quyền riêng tư của khách hàng truy cập. Tài liệu về Chính sách quyền riêng tư chứa các loại thông tin được Alephium thu thập và ghi lại cũng như cách chúng tôi sử dụng các thông tin đó.
+Tại trang Alephium có địa chỉ https://alephium.org, một trong những ưu tiên hằng đầu của chúng tôi là quyền riêng tư của khách hàng truy cập. Tài liệu về Chính sách quyền riêng tư chứa các loại thông tin được Alephium thu thập và ghi lại cũng như cách chúng tôi sử dụng các thông tin đó.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào về Chính sách quyền riêng tư, hãy liên hệ cho chúng tôi.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Alephium. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the [Free Privacy Policy Generator](https://www.privacypolicygenerator.info).
+Chính sách quyền riêng tư này chỉ được áp dụng vào trong các hoạt động trực tuyến và các lượt truy cập đến website nhằm giúp Alephium thu thập những thông tin cần thiết. Chính sách này không được chấp thuận để thu thập bất kỳ thông tin cá nhân ngoại tuyến hoặc những thông tin được thu thập bởi Alephium cho bất kỳ bên nào khác. Chúng tôi dựa trên các quy định về quyền riêng  tư mà bạn có thể tham khảo tại [Free Privacy Policy Generator](https://www.privacypolicygenerator.info).
 
-### Consent
+### Điều khoản thỏa thuận
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+Bằng việc truy cập vào trang web của chúng tôi, bạn đồng ý chấp nhận các Chính sách về quyền riêng tư và các điều khoản sau đây.
 
-### Information we collect
+### Những thông tin chúng tôi thu thập
 
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+Những thông tin bạn được yêu cầu cung cấp và những lý do bạn được yêu cầu cung cấp chúng sẽ được làm rõ ngay khi chúng tôi có các yêu cầu thu thập các thông tin này.
 
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+Nếu bạn trực tiếp liên hệ với chúng tôi, bạn có thể nhận được một số yêu cầu cung cấp thông tin của bạn như tên, địa chỉ email, số điện thoại, các nội dung tin nhắn hoặc/và những tệp tin đính kèm và một số thông tin bạn có thể chọn để gửi đến chúng tôi.
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+Khi bạn đăng ký một Tài khoản, bạn có thể được yêu cầu các thông tin bao gồm tên, công ty, địa chỉ, địa chỉ email và số điện thoại.
 
-### How we use your information
+### Chúng tôi sử dụng thông tin của bạn như thế nào
 
-We use the information we collect in various ways, including to:
+Chúng tôi sử dụng thông tin đã thu thập vào nhiều mục đích, bao gồm:
 
-- Provide, operate, and maintain our website
-- Improve, personalize, and expand our website
-- Understand and analyze how you use our website
-- Develop new products, services, features, and functionality
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
-- Send you emails
-- Find and prevent fraud
+- Cung cấp, phân tích và vận hành trang web của chúng tôi
+- Cải thiện, cá nhân hóa nhằm phát triển trang web của chúng tôi
+- Tìm hiểu và phân tích cách bạn sử dụng trang web của chúng tôi
+- Phát triển các sản phẩm, dịch vụ và các tính năng mới
+- Liên hệ với bạn trực tiếp hoặc thông qua các đối tác, bao gồm dịch vụ chăm sóc khách hàng để cung cấp cho bạn những dịch vụ và thông tin khác có liên quan đến website và nhằm vào các mục đích tiếp thị quảng bá.
+- Gửi email cho bạn
+- Tìm kiếm và ngăn chặn gian lận
 
-### Log Files
+### Nhật ký tệp tin
 
-Alephium follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+Alephium tuân theo các quy trình tiêu chuẩn sử dụng nhật ký các tệp tin. Nhật ký truy cập sẽ được ghi lại khi người dùng ghé qua website. Tất cả các công ty cung cấp dịch vụ cho website đều thực hiện điều này như một phần trong dịch vụ phân tích dữ liệu truy cập. Những thông tin được thu thập bởi nhật ký tệp tin bao gồm địa giao thức kết nối internet (IP address), loại trình duyệt đang sử dụng, nhà cung cấp dịch vụ (ISP), thời điểm truy cập, thông tin tải lại/rời khỏi trang và số lần nhấn chuột. Sẽ không có bất kỳ thông tin nào được liên kết đến thông tin của bạn cho mục đích xác minh bạn là ai. Mục đích cụ thể của việc sử dụng các thông tin này chỉ nhằm mục đích phân tích xu hướng, quản trị trang web, theo dõi hoạt động của người dùng trong phạm vi website và tập hợp lại thành các biểu đồ phân tích thông tin.
 
-### Advertising Partners Privacy Policies
+### Chính sách quyền riêng tư của đối tác quảng cáo
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of Alephium.
+Bạn có thể tham khảo danh sách này để tìm Chính sách quyền riêng tư cho từng đối tác quảng cáo của Alephium.
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Alephium, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+Máy chủ quảng cáo hoặc mạng quảng cáo của bên thứ ba sử dụng các công nghệ như cookie, JavaScript hoặc Web Beacons được sử dụng trong các quảng cáo và liên kết tương ứng xuất hiện trên Alephium, được gửi trực tiếp đến trình duyệt của người dùng. Họ tự động nhận địa chỉ IP của bạn khi điều này xảy ra. Những công nghệ này được sử dụng để đo lường tính hiệu quả của các chiến dịch quảng cáo của họ và/hoặc để cá nhân hóa nội dung quảng cáo mà bạn thấy trên các trang web mà bạn truy cập.
 
-Note that Alephium has no access to or control over these cookies that are used by third-party advertisers.
+Lưu ý rằng Alephium không có quyền truy cập hoặc kiểm soát các cookie được các nhà quảng cáo bên thứ ba sử dụng.
 
-### Third Party Privacy Policies
+### Chính sách bảo mật của bên thứ ba
 
-Alephium's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+Chính sách quyền riêng tư của Alephium không áp dụng cho các nhà quảng cáo hoặc trang web khác. Vì vậy, chúng tôi khuyên bạn nên tham khảo Chính sách quyền riêng tư tương ứng của các máy chủ quảng cáo bên thứ ba này để biết thêm thông tin chi tiết. Nó có thể bao gồm các thông lệ và hướng dẫn của họ về cách từ chối một số tùy chọn nhất định.
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+Bạn có thể chọn tắt cookie thông qua các tùy chọn trình duyệt cá nhân của mình. Để biết thông tin chi tiết hơn về quản lý cookie với các trình duyệt web cụ thể, bạn có thể tìm thấy thông tin này tại các trang web tương ứng của trình duyệt.
 
-### CCPA Privacy Rights (Do Not Sell My Personal Information)
+### Quyền riêng tư của CCPA (Không bán thông tin cá nhân của tôi)
 
-Under the CCPA, among other rights, California consumers have the right to:
+Theo CCPA, cùng với các quyền khác, người dùng California có quyền:
 
-- Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-- Request that a business delete any personal data about the consumer that a business has collected.
-- Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+- Yêu cầu doanh nghiệp thu thập dữ liệu cá nhân của người dùng hoặc tiết lộ các danh mục và phần dữ liệu cá nhân cụ thể mà doanh nghiệp đã thu thập về người dùng.
+- Yêu cầu doanh nghiệp xóa mọi dữ liệu cá nhân về người dùng mà doanh nghiệp đã thu thập.
+- Yêu cầu doanh nghiệp bán dữ liệu cá nhân của người dùng hoặc không bán dữ liệu cá nhân của người dùng.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+Nếu bạn đưa ra yêu cầu, chúng tôi sẽ cần có một tháng để trả lời bạn. Nếu bạn muốn thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi.
 
-### GDPR Data Protection Rights
+### Quyền bảo vệ dữ liệu GDPR
 
-We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+Chúng tôi muốn đảm bảo rằng bạn nhận thức đầy đủ về tất cả các quyền bảo vệ dữ liệu của mình. Mọi người dùng đều được hưởng các quyền sau:
 
-- The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
-- The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
-- The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
-- The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
-- The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
-- The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+- Quyền truy cập – Bạn có quyền yêu cầu bản sao dữ liệu cá nhân của mình. Chúng tôi có thể tính một khoản phí nhỏ cho dịch vụ này.
+- Quyền cải chính – Bạn có quyền yêu cầu chúng tôi sửa bất kỳ thông tin nào bạn cho là không chính xác. Bạn cũng có quyền yêu cầu chúng tôi hoàn thiện những thông tin mà bạn cho rằng chưa đầy đủ.
+- Quyền xóa – Bạn có quyền yêu cầu chúng tôi xóa dữ liệu cá nhân của bạn trong một số điều kiện nhất định.
+- Quyền hạn chế xử lý – Bạn có quyền yêu cầu chúng tôi hạn chế xử lý dữ liệu cá nhân của bạn trong một số điều kiện nhất định.
+- Quyền phản đối việc xử lý – Bạn có quyền phản đối việc chúng tôi xử lý dữ liệu cá nhân của bạn trong một số điều kiện nhất định.
+- Quyền di chuyển dữ liệu – Bạn có quyền yêu cầu chúng tôi chuyển dữ liệu mà chúng tôi đã thu thập cho một tổ chức khác hoặc trực tiếp cho bạn theo một số điều kiện nhất định.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+Nếu bạn đưa ra yêu cầu, chúng tôi sẽ cần một tháng để trả lời bạn. Nếu bạn muốn thực hiện bất kỳ quyền nào trong số này, vui lòng liên hệ với chúng tôi.
 
-### Children's Information
+### Thông tin dành cho trẻ em
 
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+Một phần ưu tiên khác của chúng tôi là tăng cường bảo vệ trẻ em khi sử dụng Internet. Chúng tôi khuyến khích phụ huynh và người giám hộ quan sát, tham gia và/hoặc giám sát và hướng dẫn hoạt động trực tuyến con em.
 
-Alephium does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Alephium không cố ý thu thập bất kỳ Thông tin nhận dạng cá nhân nào từ trẻ em dưới 13 tuổi. Nếu bạn cho rằng con bạn đã cung cấp loại thông tin này trên trang web của chúng tôi, chúng tôi đặc biệt khuyến khích bạn liên hệ với chúng tôi ngay lập tức và chúng tôi sẽ nỗ lực hết sức để loại bỏ kịp thời các thông tin mà bạn mong muốn từ hồ sơ của chúng tôi.
