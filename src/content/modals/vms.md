@@ -8,4 +8,4 @@ VM của Alephium ít sử dụng IO hơn để đảm bảo hiệu suất chưa
 
 Theo thiết kế, flash loan sẽ không khả dụng và VM loại bỏ nhiều tác nhân tấn công của EVM, bao gồm ủy quyền không giới hạn, vần đề nhúng kép, tấn công reentrancy, v.v. 
 
-Cuôi cùng, mô hình thực thi stateful UTXO giúp giảm thiểu tình trạng chênh lệch giá không rủi ro.
+Cuối cùng, mô hình thực thi stateful UTXO giúp giảm thiểu tình trạng chênh lệch giá không rủi ro.
