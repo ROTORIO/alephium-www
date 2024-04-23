@@ -11,15 +11,15 @@ Bảo mật cho người dùng.
 Phi tập trung cho mọi người.'
     subtitle: 'Sharding cải tiến kết hợp với sUTXO và thuật toán tiết kiệm năng lượng Proof-of-Less-Work cho khả năng mở rộng các dApp an toàn và hiệu suất cao.'
   light:
-    title: Accessibility & Usability
-    subtitle: 'From its technical design to its interfaces, Alephium has been created to address the challenges of accessibility, scalability, and security encountered by decentralized applications today.'
+    title: Khả năng truy cập & sử dụng
+    subtitle: 'Từ thiết kế kỹ thuật đến giao diện, Alephium đã được tạo ra để giải quyết các thách thức về khả năng truy cập, khả năng mở rộng và bảo mật mà các ứng dụng phi tập trung gặp phải ngày nay.'
 introSection:
   title: Bắt đầu
   subtitle: Chuyến hành trình khám phá Alephium
   cards:
     - title: Xây dựng
       image: ../images/code.svg
-      description: 'Bắt đầu xây dựng smart contract, ứng dụng phi tập trung và các giao thức của chính bạn.'
+      description: 'Bắt đầu xây dựng smart contract, ứng dụng phi tập trung và các giao thức của bạn.'
       link:
         url: https://docs.alephium.org/dapps/getting-started/
         newTab: true
@@ -56,7 +56,7 @@ technologySection:
         newTab: true
   polwSection:
     title: Tối ưu trong tiêu thụ năng lượng
-    description: "Thuật toán Proof of Less Work của Alephium rất đơn giản, nhất quán và mạnh mẽ để đạt được sự phi tập trung, đồng thời giảm mức tiêu thụ năng lượng hơn 87% so với Proof of Work cổ điển. Trên Alephium, bất kỳ ai cũng có thể chạy full node và tham gia vào việc xác nhận dữ liệu on-chain. 'Đừng tin, hãy xác nhận'."
+    description: "Thuật toán Proof of Less Work của Alephium hoạt động rất đơn giản, nhất quán và mạnh mẽ để đạt được sự phi tập trung, đồng thời giảm mức tiêu thụ năng lượng hơn 87% so với Proof of Work cổ điển. Trên Alephium, bất kỳ ai cũng có thể chạy full node và tham gia vào việc xác thực dữ liệu on-chain. 'Đừng tin, hãy xác thực'."
     links:
       - text: Đọc thêm
       - text: PoLW white paper
@@ -64,26 +64,26 @@ technologySection:
         newTab: true
   vmsSection:
     title: Có Virtual machine & Ngôn ngữ lập trình riêng biệt.
-    description: "Alephium cải thiện trải nghiệm lập trình và bảo mật cho lập trình viên với chính Virtual Machine, SDK và tối ưu hiệu suất của ngôn ngữ lập trình. MEV được thiết kế và tích hợp sẳn những tính năng bảo mật, giúp loại bỏ các tác nhân tấn công phổ biến, chẳn hạn như reentrancy attack, unlimited authorization và flash loans. Alephium cho phép lập trình viên tập trung vào những vấn đề cần được giải quyết và ưu tiên phát triển các smart contract, dApp và token."
+    description: "Alephium cải thiện trải nghiệm lập trình và bảo mật cho lập trình viên với chính Virtual Machine (máy ảo), SDK và tối ưu hiệu suất của ngôn ngữ lập trình. MEV được thiết kế và tích hợp sẳn những tính năng bảo mật nhằm giúp loại bỏ các tác nhân tấn công phổ biến, chẳn hạn như reentrancy attack, unlimited authorization và flash loan. Alephium cho phép lập trình viên tập trung vào những vấn đề cần được giải quyết và ưu tiên phát triển các smart contract, dApp cũng như token."
     links:
       - text: Đọc thêm
 numbersSection:
   title: Những con số
-  subtitle: "Chúng tôi bao gồm những con người nhiệt huyết và có trách nhiệm trong công việc để cho ra những kết quả tốt nhất. Dưới đây là những con số ấn tượng của chúng tôi."
+  subtitle: "Chúng tôi bao gồm những con người tràn đầy nhiệt huyết và có trách nhiệm trong công việc để tạo ra những kết quả tốt nhất. Dưới đây là những con số ấn tượng của chúng tôi."
 walletsSection:
   title: Ví cá nhân
   subtitle: Được thiết kế thân thiện cho mọi người
   description: 'Các phiên bản ví cá nhân được thiết kế thuận tiện cho việc sử dụng hằng ngày và phù hợp cho tất cả mọi người.'
   wallets:
     - title: Desktop wallet 🖥️
-      description: 'Được xem là phiên bản flagship. Desktop wallet luôn sẳn sàn cho mọi tình huống từ quản lý các giao dịch hằng ngày đến những công việc tích hợp smart contract, bảo mật & DeFi.'
+      description: 'Được xem là phiên bản flagship. Desktop wallet luôn sẳn sàn cho mọi tình huống từ quản lý các giao dịch hằng ngày đến những công việc liên quan đến smart contract, bảo mật & DeFi.'
       screenshot: ../images/screenshots/desktop-wallet.png
       color: 'rgb(91, 0, 255)'
       actions:
         - title: Tải về desktop wallet
           link: https://github.com/alephium/alephium-frontend/releases/latest/
     - title: Extension wallet 🌍
-      description: 'Phiên bản ví cá nhân có thể chạy trên trình duyệt của bạn. Dễ dàng truy cập vào những tính năng mới nhất, tối ưu hóa và tập trung cho DeFi.'
+      description: 'Phiên bản ví cá nhân có thể chạy trên trình duyệt của bạn. Dễ dàng truy cập vào những tính năng mới nhất, tối ưu hóa cho các hoạt động DeFi.'
       screenshot: ../images/screenshots/extension.png
       color: 'rgb(24, 215, 255)'
       actions:
@@ -106,7 +106,7 @@ ecosystemSection:
   subtitle: Không ngừng phát triển
   subsections:
     - title: dApp & Dự án
-      description: 'Ở mọi khía cạnh, bảo mật hệ thống và cung cấp các dịch vụ hằng đầu là những tiêu chí tiên quyết để chung tôi không ngừng nổ lực mỗi ngày!'
+      description: 'Ở mọi khía cạnh, bảo mật hệ thống và cung cấp các dịch vụ tốt nhất là những tiêu chí tiên quyết để chung tôi không ngừng nổ lực mỗi ngày!'
       image: ../images/sprout.svg
       items:
         - title: 'Alphland'
@@ -129,7 +129,7 @@ ecosystemSection:
         - title: '& nhiều hơn'
           url: https://github.com/alephium/awesome-alephium
     - title: Đối tác
-      description: 'Từ các luật sư đến các blockchain ngang hàng, các nhà vận động và các tổ chức địa phương. Tất cả mọi người khiến cho chúng tôi cảm thấy là một hệ sinh thái lớn vững mạnh.'
+      description: 'Từ các luật sư đến các blockchain ngang hàng hay các nhà vận động và các tổ chức địa phương. Tất cả mọi người đều không ngừng đóng góp đển phát triển một hệ sinh thái vững mạnh.'
       image: ../images/network.svg
       items:
         - title: 'Bitcoin Association Switzerland'
@@ -396,7 +396,7 @@ shopSection:
   title: SWALPH
   subtitle: Decentralized SWAG 🤘
   description:
-    Nếu bạn muốn khoát lên mình màu sắc của Alephium, hãy dạo qua cửa hàng của chúng tôi và chọn những vật phẩm mà bạn thích.
+    Nếu bạn muốn khoát lên mình màu sắc của Alephium, hãy dạo qua cửa hàng của chúng tôi để chọn cho mình những vật phẩm mà bạn thích. 
     Bạn sẽ tìm thấy những thiết kế đẹp nhất để thêm một chút vibe sharding và PoLW theo bạn hằng ngày.
   link:
     text: 'Truy cập đến shop'
@@ -404,7 +404,7 @@ shopSection:
 
 followUsSection:
   title: Cộng đồng
-  subtitle: Hãy đến thăm chúng tôi
+  subtitle: Hãy ghé thăm chúng tôi
   description: Cộng đồng Alephium phát triển thần tốc. Bạn là người đam mê công nghệ? Hãy đến để học hỏi và xây dựng!
   socialMediaLinks:
     - name: Discord
